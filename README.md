@@ -1,5 +1,5 @@
 # Love Protocol — For Tooba
 
-A small interactive love letter built around an IT engineer and a pharmacist.
+A respectful, interactive love letter from Abdul Rehman to Tooba—an IT engineer and a pharmacist patiently waiting for marriage.
 
-The experience lives in `docs/` so it can be published directly with GitHub Pages.
+The site is ready to publish directly from the repository root with GitHub Pages.
